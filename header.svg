@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="359" viewBox="0 0 760 359" role="img" aria-label="Terminal running training, verification and server commands, then printing: dion dauti, machine learning and full stack developer, tirana">
+<title>dion dauti, machine learning and full stack developer</title>
+<defs>
+<style>
+text { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15.5px; white-space: pre; }
+.p { fill: #4f9ff2; }
+.c { fill: #e8eef5; }
+.o { fill: #8b949e; }
+.n { fill: #ffffff; font-weight: 600; }
+.l { fill: #6e7681; font-size: 12.5px; }
+.cur { fill: #4f9ff2; }
+</style>
+<clipPath id="c0"><rect x="44.6" y="68" height="29" width="0"><animate attributeName="width" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8;65.1;74.4;83.7;93.0;102.3;111.6;120.9;130.2;139.5;148.8;158.1;167.4;176.7;186.0;195.3;204.6" begin="0.45s" dur="0.924s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="44.6" y="126" height="29" width="0"><animate attributeName="width" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8;65.1;74.4;83.7;93.0;102.3;111.6;120.9;130.2;139.5;148.8;158.1;167.4;176.7;186.0;195.3;204.6;213.9;223.2;232.5;241.8;251.1;260.4;269.7;279.0;288.3;297.6;306.9;316.2;325.5;334.8" begin="2.134s" dur="1.512s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="44.6" y="184" height="29" width="0"><animate attributeName="width" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8;65.1;74.4;83.7" begin="4.406s" dur="0.378s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="44.6" y="242" height="29" width="0"><animate attributeName="width" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8" begin="5.544s" dur="0.252s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="759" height="358" rx="9" fill="#0d1117" stroke="#2b313a"/>
+<path d="M0.5 9.5a9 9 0 0 1 9-9h740a9 9 0 0 1 9 9v33H0.5z" fill="#161b22"/>
+<line x1="0.5" y1="42.5" x2="759.5" y2="42.5" stroke="#2b313a"/>
+<text class="l" x="26" y="26">dion@dev ~/projects</text>
+<text class="p" x="26" y="84.09" opacity="0"><set attributeName="opacity" to="1" begin="0.45s"/>$</text>
+<g clip-path="url(#c0)"><text class="c" x="44.6" y="84.09">python3 train_model.py</text></g>
+<rect class="cur" x="44.6" y="71" width="9.3" height="15.5" opacity="0"><set attributeName="opacity" to="1" begin="0.45s"/><animate attributeName="x" values="44.6;53.9;63.2;72.5;81.8;91.1;100.4;109.7;119.0;128.3;137.6;146.9;156.2;165.5;174.8;184.1;193.4;202.7;212.0;221.3;230.6;239.9;249.2" begin="0.45s" dur="0.924s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="1.374s"/></rect>
+<text class="o" x="26" y="113.09" opacity="0"><set attributeName="opacity" to="1" begin="1.714s"/>Model trained successfully</text>
+<text class="p" x="26" y="142.09" opacity="0"><set attributeName="opacity" to="1" begin="2.134s"/>$</text>
+<g clip-path="url(#c2)"><text class="c" x="44.6" y="142.09">python3 verify_js_matches_sklearn.py</text></g>
+<rect class="cur" x="44.6" y="129" width="9.3" height="15.5" opacity="0"><set attributeName="opacity" to="1" begin="2.134s"/><animate attributeName="x" values="44.6;53.9;63.2;72.5;81.8;91.1;100.4;109.7;119.0;128.3;137.6;146.9;156.2;165.5;174.8;184.1;193.4;202.7;212.0;221.3;230.6;239.9;249.2;258.5;267.8;277.1;286.4;295.7;305.0;314.3;323.6;332.9;342.2;351.5;360.8;370.1;379.4" begin="2.134s" dur="1.512s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="3.646s"/></rect>
+<text class="o" x="26" y="171.09" opacity="0"><set attributeName="opacity" to="1" begin="3.986s"/>max difference: 0.000000</text>
+<text class="p" x="26" y="200.09" opacity="0"><set attributeName="opacity" to="1" begin="4.406s"/>$</text>
+<g clip-path="url(#c4)"><text class="c" x="44.6" y="200.09">npm start</text></g>
+<rect class="cur" x="44.6" y="187" width="9.3" height="15.5" opacity="0"><set attributeName="opacity" to="1" begin="4.406s"/><animate attributeName="x" values="44.6;53.9;63.2;72.5;81.8;91.1;100.4;109.7;119.0;128.3" begin="4.406s" dur="0.378s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="4.784s"/></rect>
+<text class="o" x="26" y="229.09" opacity="0"><set attributeName="opacity" to="1" begin="5.124s"/>booking api listening on :3000</text>
+<text class="p" x="26" y="258.09" opacity="0"><set attributeName="opacity" to="1" begin="5.544s"/>$</text>
+<g clip-path="url(#c6)"><text class="c" x="44.6" y="258.09">whoami</text></g>
+<rect class="cur" x="44.6" y="245" width="9.3" height="15.5" opacity="0"><set attributeName="opacity" to="1" begin="5.544s"/><animate attributeName="x" values="44.6;53.9;63.2;72.5;81.8;91.1;100.4" begin="5.544s" dur="0.252s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="5.796s"/></rect>
+<text class="n" x="26" y="287.09" opacity="0"><set attributeName="opacity" to="1" begin="6.136s"/>dion dauti</text>
+<text class="o" x="26" y="316.09" opacity="0"><set attributeName="opacity" to="1" begin="6.556s"/>machine learning and full stack developer, tirana</text>
+<rect class="cur" x="26" y="332" width="9.3" height="15.5" opacity="0"><set attributeName="opacity" to="1" begin="6.976s"/><animate attributeName="opacity" values="1;1;0;0" dur="1.05s" begin="6.976s" repeatCount="indefinite"/></rect>
+</svg>
